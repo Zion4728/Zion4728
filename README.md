@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @Zion4728
+- 👋 Hi, I'm @Zion
 - 👀 I'm interested in Programming
 - 🌱 I am currently learning Python
 - 💞️ I seek to collaborate in mutual growth
