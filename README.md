@@ -18,7 +18,7 @@ Minha jornada de aprendizado:
 
 Como estudante de Ciências da Computação, estou constantemente em busca de novos conhecimentos e desafios. Estudo assiduamente conceitos fundamentais, como estruturas de dados e algoritmos, mas também me aventuro em áreas mais especializadas, como inteligência artificial e segurança da informação.
 
-No entanto, o que mais me cativa são as linguagens de programação. Tenho um verdadeiro amor pela arte da codificação, e estou determinado a me tornar um especialista em várias linguagens. Atualmente, estou focado em aprimorar minhas habilidades em Python, Golang e C#. Cada uma dessas linguagens tem seu próprio charme e aplicações únicas, e estou ansioso para explorar seu potencial ao máximo.
+No entanto, o que mais me cativa são as linguagens de programação. Tenho um verdadeiro amor pela arte da codificação, e estou determinado a me tornar um especialista em várias linguagens. Atualmente, estou focado em aprimorar minhas habilidades em Python e Golang. Cada uma dessas linguagens tem seu próprio charme e aplicações únicas, e estou ansioso para explorar seu potencial ao máximo.
 
 
 ## Conecte-se comigo
@@ -26,7 +26,7 @@ No entanto, o que mais me cativa são as linguagens de programação. Tenho um v
 
 
 ## Linguagens de Programação
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
 
 
 
