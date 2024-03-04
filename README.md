@@ -44,7 +44,3 @@ No entanto, o que mais me cativa são as linguagens de programação. Tenho um v
 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-## GitHub Stats
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zion4728&theme=transparent&bg_color=2d2b55&border_color=d9b60e&show_icons=true&icon_color=d9b60e&title_color=d9b60e&text_color=d9b60e_icons=true)
